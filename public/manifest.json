@@ -1,0 +1,9 @@
+{
+    "name": "SPIGOT DEVELOPER",
+    "short_name": "SPIGOT DEVELOPER",
+    "start_url": ".",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation":"portrait"
+}
